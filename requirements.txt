@@ -2,7 +2,7 @@
 # Flask
 # ----------------------
 flask
-keras==2.24
+keras==2.2.4
 keras_preprocessing==1.1.0
 tensorflow==1.7.0
 pickle-mixin
